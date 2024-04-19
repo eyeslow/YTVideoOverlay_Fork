@@ -1,15 +1,15 @@
-#import <YouTubeHeader/YTColor.h>
-#import <YouTubeHeader/YTCommonUtils.h>
-#import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
-#import <YouTubeHeader/YTSingleVideoController.h>
-#import <YouTubeHeader/YTSettingsPickerViewController.h>
-#import <YouTubeHeader/YTSettingsViewController.h>
-#import <YouTubeHeader/YTSettingsSectionItem.h>
-#import <YouTubeHeader/YTSettingsSectionItemManager.h>
-#import <YouTubeHeader/YTQTMButton.h>
-#import <YouTubeHeader/QTMIcon.h>
-#import <YouTubeHeader/MLFormat.h>
-#import <YouTubeHeader/UIView+YouTube.h>
+#import "../YouTubeHeader/YTColor.h"
+#import "../YouTubeHeader/YTCommonUtils.h"
+#import "../YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h"
+#import "../YouTubeHeader/YTSingleVideoController.h"
+#import "../YouTubeHeader/YTSettingsPickerViewController.h"
+#import "../YouTubeHeader/YTSettingsViewController.h"
+#import "../YouTubeHeader/YTSettingsSectionItem.h"
+#import "../YouTubeHeader/YTSettingsSectionItemManager.h"
+#import "../YouTubeHeader/YTQTMButton.h"
+#import "../YouTubeHeader/QTMIcon.h"
+#import "../YouTubeHeader/MLFormat.h"
+#import "../YouTubeHeader/UIView+YouTube.h"
 #import "Header.h"
 
 static const NSInteger YTVideoOverlaySection = 1222;
